@@ -1,2 +1,5 @@
 Exercício 2:
 https://archive.ics.uci.edu/dataset/994/micro+gas+turbine+electrical+energy+prediction
+
+link colab:
+https://colab.research.google.com/drive/1ZROlRW3hprr4iHIIUBZExH44oPYdGhcZ?usp=sharing
