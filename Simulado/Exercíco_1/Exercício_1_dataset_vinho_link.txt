@@ -1,2 +1,5 @@
 Exercício 1:
 https://archive.ics.uci.edu/dataset/186/wine+quality
+
+link colab:
+https://colab.research.google.com/drive/1ZDuoJnHQexzSf_cwX_uXe3gElLbcHEb2?usp=sharing
