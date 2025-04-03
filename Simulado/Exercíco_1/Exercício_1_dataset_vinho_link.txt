@@ -1,5 +1,8 @@
 Exercício 1:
 https://archive.ics.uci.edu/dataset/186/wine+quality
 
-link colab:
+link colab vinhos qualidade:
 https://colab.research.google.com/drive/1ZDuoJnHQexzSf_cwX_uXe3gElLbcHEb2?usp=sharing
+
+link colab vinhos cor:
+https://colab.research.google.com/drive/1HJwqNkIGzhFEERdE5Yg35hwAszMOiEEL?usp=sharing
