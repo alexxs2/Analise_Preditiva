@@ -1,0 +1,2 @@
+link do colab: https://colab.research.google.com/drive/1r8VOJWD70OGeOxR6XZnxowo_zsp3fcd1?usp=sharing
+link do dataset: https://archive.ics.uci.edu/dataset/45/heart+disease
